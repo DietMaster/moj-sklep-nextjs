@@ -1,0 +1,176 @@
+{
+  "nav": {
+    "shop": "Shop",
+    "benefits": "Benefits", 
+    "science": "Science",
+    "reviews": "Reviews",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "hero": {
+    "headline": "Protect Your Eyes from Digital Strain",
+    "subheadline": "Premium blue-light blocking glasses designed for Cambodia's digital professionals. Reduce eye strain, improve sleep, and boost productivity.",
+    "cta": "Shop Frames",
+    "secondary_cta": "Learn More"
+  },
+  "trusted": {
+    "title": "Trusted by thousands across Cambodia",
+    "phnom_penh": "Phnom Penh",
+    "siem_reap": "Siem Reap", 
+    "battambang": "Battambang"
+  },
+  "how_it_works": {
+    "title": "How EyeKhel Works",
+    "step1": {
+      "title": "Digital Blue Light",
+      "description": "Screens emit high-energy blue light that can cause eye strain and disrupt sleep"
+    },
+    "step2": {
+      "title": "Eye Strain & Fatigue", 
+      "description": "Extended screen time leads to tired eyes, headaches, and poor sleep quality"
+    },
+    "step3": {
+      "title": "EyeKhel Protection",
+      "description": "Our amber lenses filter harmful blue light while maintaining natural color perception"
+    }
+  },
+  "benefits": {
+    "title": "Why Choose EyeKhel?",
+    "eye_strain": {
+      "title": "Reduce Eye Strain",
+      "description": "Less squinting and blinking for comfortable screen time"
+    },
+    "headaches": {
+      "title": "Fewer Headaches",
+      "description": "Minimize tension headaches from prolonged screen exposure"
+    },
+    "sleep": {
+      "title": "Better Sleep Quality",
+      "description": "Improved melatonin production for natural sleep cycles"
+    },
+    "glare": {
+      "title": "Anti-Glare Protection",
+      "description": "Reduce harsh screen glare and reflections"
+    },
+    "uv": {
+      "title": "UV400 Protection",
+      "description": "Complete protection from harmful UV rays"
+    }
+  },
+  "science": {
+    "title": "The Science Behind Blue Light",
+    "description": "Research shows that excessive blue light exposure can disrupt circadian rhythms and cause digital eye strain.",
+    "expand": "Read Research",
+    "collapse": "Show Less"
+  },
+  "products": {
+    "title": "Choose Your Style",
+    "subtitle": "All frames include our premium blue-light blocking lenses",
+    "choose": "Choose",
+    "from": "from",
+    "sale": "SALE"
+  },
+  "reviews": {
+    "title": "What Our Customers Say",
+    "rating": "4.8 out of 5 stars",
+    "total_reviews": "based on 1,247 reviews"
+  },
+  "comparison": {
+    "title": "EyeKhel vs. Competition",
+    "no_glasses": "No Glasses",
+    "generic": "Generic Glasses", 
+    "eyekhel": "EyeKhel",
+    "blue_light": "Blue Light Protection",
+    "eye_strain": "Eye Strain Relief",
+    "sleep_quality": "Sleep Quality",
+    "uv_protection": "UV Protection",
+    "warranty": "Warranty",
+    "none": "None",
+    "basic": "Basic",
+    "premium": "Premium",
+    "excellent": "Excellent",
+    "year": "1 Year"
+  },
+  "in_the_box": {
+    "title": "What's Included",
+    "glasses": "EyeKhel Glasses",
+    "case": "Premium Hard Case",
+    "cloth": "Microfiber Cleaning Cloth",
+    "guide": "Care Instructions"
+  },
+  "shipping": {
+    "title": "Shipping & Returns",
+    "free_shipping": "Free shipping within Cambodia",
+    "delivery": "2-3 business days in Phnom Penh",
+    "returns": "30-day money-back guarantee"
+  },
+  "cta_band": {
+    "title": "Ready to Protect Your Eyes?",
+    "subtitle": "Join thousands of satisfied customers across Cambodia",
+    "cta": "Shop Now"
+  },
+  "footer": {
+    "tagline": "Protect your eyes, enhance your life",
+    "shop": "Shop",
+    "company": "Company",
+    "support": "Support",
+    "legal": "Legal",
+    "about": "About Us",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "shipping_policy": "Shipping Policy",
+    "return_policy": "Return Policy",
+    "disclaimer": "These statements have not been evaluated by health authorities. This product is not intended to diagnose, treat, cure, or prevent any disease."
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "continue_shopping": "Continue Shopping",
+    "checkout": "Proceed to Checkout",
+    "quantity": "Quantity",
+    "remove": "Remove",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "free": "Free",
+    "total": "Total"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "contact": "Contact Information",
+    "shipping_address": "Shipping Address",
+    "order_summary": "Order Summary",
+    "name": "Full Name",
+    "phone": "Phone Number",
+    "email": "Email (optional)",
+    "address": "Address",
+    "city": "City",
+    "province": "Province",
+    "postal_code": "Postal Code",
+    "notes": "Special Instructions (optional)",
+    "place_order": "Place Order",
+    "processing": "Processing...",
+    "required": "Required"
+  },
+  "thank_you": {
+    "title": "Thank You for Your Order!",
+    "order_number": "Order Number",
+    "confirmation": "We'll contact you within 24 hours to confirm your order and arrange delivery.",
+    "questions": "Questions? Call us at +855 12 345 678",
+    "continue_shopping": "Continue Shopping"
+  },
+  "common": {
+    "add_to_cart": "Add to Cart",
+    "buy_now": "Buy Now",
+    "learn_more": "Learn More",
+    "view_all": "View All",
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "try_again": "Try Again",
+    "yes": "Yes",
+    "no": "No",
+    "price": "Price",
+    "sale_price": "Sale Price",
+    "original_price": "Original Price"
+  }
+}

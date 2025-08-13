@@ -1,0 +1,33 @@
+# This is a placeholder for the actual glasses images
+# Place your product images in the following structure:
+
+# /public/images/frames/
+#   ├── classic-black-1.jpg
+#   ├── classic-black-2.jpg  
+#   ├── classic-black-3.jpg
+#   ├── tortoise-1.jpg
+#   ├── tortoise-2.jpg
+#   ├── tortoise-3.jpg
+#   ├── matte-grey-1.jpg
+#   ├── matte-grey-2.jpg
+#   ├── matte-grey-3.jpg
+#   ├── round-gold-1.jpg
+#   ├── round-gold-2.jpg
+#   ├── round-gold-3.jpg
+#   ├── crystal-clear-1.jpg
+#   ├── crystal-clear-2.jpg
+#   └── crystal-clear-3.jpg
+
+# Recommended image specs:
+# - Format: JPG or PNG
+# - Size: 800x800px minimum  
+# - Aspect ratio: 1:1 (square)
+# - Quality: High (90-95% for JPG)
+# - File size: Under 200KB each
+
+# Also add these files to the /public/ directory:
+# - favicon.ico
+# - apple-touch-icon.png  
+# - og-image.jpg (1200x630px for social sharing)
+# - icon-192.png (192x192px)
+# - icon-512.png (512x512px)

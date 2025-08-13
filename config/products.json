@@ -1,0 +1,139 @@
+{
+  "lens": {
+    "name": "EyeKhel Lens",
+    "tint": "amber",
+    "features": [
+      "Blue-light blocking",
+      "Anti-glare coating",
+      "UV400 protection",
+      "Scratch-resistant coating"
+    ],
+    "copy": "Balanced amber tint optimized for evening screen time and daytime work. Reduces digital eye strain while maintaining natural color perception.",
+    "blueLight": {
+      "blockingPercentage": 85,
+      "wavelengthRange": "400-490nm"
+    }
+  },
+  "frames": [
+    {
+      "id": "classic-black",
+      "name": "Classic Black",
+      "slug": "classic-black",
+      "price": 49,
+      "originalPrice": 79,
+      "description": "Timeless rectangular frame in deep black. Professional look for work and everyday wear.",
+      "colors": ["Black"],
+      "shapes": ["rectangular"],
+      "materials": ["acetate"],
+      "sizes": {
+        "width": "140mm",
+        "bridge": "18mm", 
+        "temple": "145mm"
+      },
+      "weight": "28g",
+      "images": [
+        "/images/frames/classic-black-1.jpg",
+        "/images/frames/classic-black-2.jpg",
+        "/images/frames/classic-black-3.jpg"
+      ],
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": "tortoise-shell",
+      "name": "Tortoise Shell",
+      "slug": "tortoise-shell",
+      "price": 59,
+      "originalPrice": 89,
+      "description": "Elegant tortoiseshell pattern adds warmth and sophistication to any look.",
+      "colors": ["Tortoise"],
+      "shapes": ["rectangular"],
+      "materials": ["acetate"],
+      "sizes": {
+        "width": "142mm",
+        "bridge": "19mm",
+        "temple": "145mm"
+      },
+      "weight": "29g",
+      "images": [
+        "/images/frames/tortoise-1.jpg",
+        "/images/frames/tortoise-2.jpg",
+        "/images/frames/tortoise-3.jpg"
+      ],
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": "matte-grey",
+      "name": "Matte Grey",
+      "slug": "matte-grey",
+      "price": 55,
+      "originalPrice": 85,
+      "description": "Modern matte finish in sophisticated grey. Lightweight and comfortable for all-day wear.",
+      "colors": ["Grey"],
+      "shapes": ["rectangular"],
+      "materials": ["TR90"],
+      "sizes": {
+        "width": "138mm",
+        "bridge": "17mm",
+        "temple": "143mm"
+      },
+      "weight": "24g",
+      "images": [
+        "/images/frames/matte-grey-1.jpg",
+        "/images/frames/matte-grey-2.jpg",
+        "/images/frames/matte-grey-3.jpg"
+      ],
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": "round-gold",
+      "name": "Round Gold",
+      "slug": "round-gold", 
+      "price": 65,
+      "originalPrice": 95,
+      "description": "Vintage-inspired round frames with premium gold-tone finish. Perfect for creative professionals.",
+      "colors": ["Gold"],
+      "shapes": ["round"],
+      "materials": ["metal"],
+      "sizes": {
+        "width": "135mm",
+        "bridge": "20mm",
+        "temple": "140mm"
+      },
+      "weight": "32g",
+      "images": [
+        "/images/frames/round-gold-1.jpg",
+        "/images/frames/round-gold-2.jpg",
+        "/images/frames/round-gold-3.jpg"
+      ],
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": "crystal-clear",
+      "name": "Crystal Clear",
+      "slug": "crystal-clear",
+      "price": 59,
+      "originalPrice": 89,
+      "description": "Ultra-lightweight transparent frames that complement any style. Minimalist and versatile.",
+      "colors": ["Transparent"],
+      "shapes": ["rectangular"],
+      "materials": ["TR90"],
+      "sizes": {
+        "width": "139mm",
+        "bridge": "18mm",
+        "temple": "144mm"
+      },
+      "weight": "22g",
+      "images": [
+        "/images/frames/crystal-clear-1.jpg",
+        "/images/frames/crystal-clear-2.jpg",
+        "/images/frames/crystal-clear-3.jpg"
+      ],
+      "inStock": true,
+      "featured": false
+    }
+  ]
+}
